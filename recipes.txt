@@ -9,3 +9,6 @@ chicken fry
 
 pizza
 pastha
+
+beans
+carrot
