@@ -6,3 +6,6 @@ rice
 dhall
 curd
 chicken fry
+
+pizza
+pastha
